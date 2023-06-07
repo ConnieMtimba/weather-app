@@ -1,0 +1,85 @@
+h1,
+h4,
+h5 {
+  font-family: "Bree Serif", serif;
+}
+
+h4 {
+  padding: 20px;
+  top: 0;
+  right: 0;
+  position: fixed;
+}
+.small {
+  font-size: 12px;
+}
+
+#cityInput {
+  margin-bottom: 30px;
+  border: 1px solid #1a64d6;
+  color: #1a64d6;
+  border: 1px solid #1a64d6;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+  cursor: pointer;
+}
+
+button {
+  margin-bottom: 30px;
+  border: 1px solid #1a64d6;
+  color: #1a64d6;
+  border: 1px solid #1a64d6;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 10px;
+  box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+  cursor: pointer;
+}
+
+#current {
+  margin-bottom: 30px;
+  border: 1px solid #1cca33;
+  color: #1cca33;
+  border: 1px solid #1cca33;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 10px;
+  box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+  cursor: pointer;
+}
+
+.card-text {
+  padding: 20px;
+  font-size: 28px;
+  color: orange;
+}
+
+.card {
+  margin-bottom: 20px;
+  width: 130px;
+}
+
+.container {
+  font-size: 16px;
+  max-width: 800px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  border: 1px solid blue;
+  margin: 30px 40px;
+  box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+}
+
+#units {
+  font-size: 16px;
+  position: relative;
+  top: -11px;
+}
+
+#weather-description {
+  text-transform: capitalize;
+}
