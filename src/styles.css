@@ -83,3 +83,8 @@ button {
 #weather-description {
   text-transform: capitalize;
 }
+.githubLink {
+  text-align: center;
+  position: relative;
+  font-family: "Times New Roman", Times, serif;
+}
